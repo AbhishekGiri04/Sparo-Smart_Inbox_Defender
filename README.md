@@ -5,6 +5,12 @@
 </p>
 
 <p align="center">
+  <a href="https://sparo-nyx.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_App-success?style=for-the-badge" alt="Live Demo"/>
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
