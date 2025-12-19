@@ -395,6 +395,4 @@ pickle-mixin>=1.0.2
 
 **© 2025 Sparo - Smart Inbox Defender. All Rights Reserved.**
 
-[⭐ Star this repo](https://github.com/abhishekgiri04/Sparo-Smart_Inbox_Defender) • [🐛 Report Bug](https://github.com/abhishekgiri04/Sparo-Smart_Inbox_Defender/issues) • [💡 Request Feature](https://github.com/abhishekgiri04/Sparo-Smart_Inbox_Defender/issues)
-
 </div>
