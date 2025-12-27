@@ -159,8 +159,8 @@ sparo-smart-inbox-defender/
 
 **1. Clone the Repository**
 ```bash
-git clone https://github.com/abhishekgiri04/Sparo-Smart_Inbox_Defender.git
-cd Sparo-Smart_Inbox_Defender
+git clone https://github.com/AbhishekGiri04/Sparo.git
+cd Sparo - Smart Inbox Defender
 ```
 
 **2. Set up Virtual Environment**
