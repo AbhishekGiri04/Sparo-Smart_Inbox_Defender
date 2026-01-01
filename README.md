@@ -113,6 +113,7 @@ Sparo is a Python Streamlit-based enterprise application built to:
 sparo-smart-inbox-defender/
 ├── 📂 data/                          # 📚 ML training and testing data
 │   └── 📄 sms_spam_ham_dataset.csv   # 🗃️ Curated SMS dataset (5,572 messages)
+├── 📂 docs/                          # 📸 Application screenshots and images
 ├── 📄 app.py                         # 🚀 Main Streamlit application entry point
 ├── 📄 model_training.ipynb           # 🧪 ML model training and analysis notebook
 ├── 📄 model.pkl                      # 🤖 Production-ready ML model
@@ -120,6 +121,7 @@ sparo-smart-inbox-defender/
 ├── 📄 test_message_samples.csv       # 🧪 Sample test messages for validation
 ├── 📄 test_message_samples.txt       # 📝 Text format test samples
 ├── 📄 requirements.txt               # 📦 Python dependencies and versions
+├── 📄 LICENSE                        # 📜 MIT License
 ├── 📄 .gitignore                     # 🚫 Git ignore configuration
 └── 📄 README.md                      # 📖 Project documentation and setup guide
 ```
@@ -364,8 +366,8 @@ pickle-mixin>=1.0.2
 
 ## 📞 Help & Contact
 
-> 💬 *Got a question, suggestion, or need help with Sparo?*  
-> We're here to assist and collaborate!
+> 💬 *Got questions or need assistance with Sparo?*  
+> We're here to help with integration and customization!
 
 <div align="center">
 
@@ -381,6 +383,12 @@ pickle-mixin>=1.0.2
 </a>
 
 <br/>
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
